@@ -8,20 +8,7 @@ Application de gestion de stock avec Java et Hibernate.
 
 ### Résultat d'exécution
 
-```
-ES12       120 DH
-EE85       200 DH
-Commande : 2    Date : 14 Mars 2013
-Liste des produits :
-Référence   Prix    Quantité
-ES12       120 DH  7
-ZR85       100 DH  14
-EE85       200 DH  5
-
-Produits avec prix > 100 DH:
-ES12       120 DH
-EE85       200 DH
-```
+![Résultat d'exécution](image.png)
 
 ## Fonctionnalités
 
